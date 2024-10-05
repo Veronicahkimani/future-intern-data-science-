@@ -16,7 +16,7 @@ reliable predictions. This model aims to assist in
 estimating house prices accurately for new
 properties.
 
-# task 2
+# TASK 2
 Social media sentiment
 
 analysics
