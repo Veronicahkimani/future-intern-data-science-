@@ -1,4 +1,4 @@
-# future-intern-data-science
+# Future-Intern-Data-Science
 Data Science projects through future intern program
 
 # TASK 1
