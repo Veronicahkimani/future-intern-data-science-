@@ -17,9 +17,7 @@ estimating house prices accurately for new
 properties.
 
 # TASK 2
-Social media sentiment
-
-analysics
+Social media sentiment analysis
 
 Perform sentiment analysis on tweets or Facebook
 posts using machine learning techniques. Clean
