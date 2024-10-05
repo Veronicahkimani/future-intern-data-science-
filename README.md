@@ -1,5 +1,5 @@
-# future-intern-data-science-
-data science project through future intern program
+# future-intern-data-science
+Data Science projects through future intern program
 
 # TASK 1
 House Price Prediction
